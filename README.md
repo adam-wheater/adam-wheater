@@ -1,7 +1,7 @@
 # Adam Wheater
 
 Principal Chapter Lead at [Allpay](https://www.allpay.net), Hereford, UK.
-Payments by day: hosted payment pages, 3DS2, Global Payments, Stripe Terminal.
+Payments by day: hosted payment pages, 3DS2, Global Payments.
 
 ## What I build
 
